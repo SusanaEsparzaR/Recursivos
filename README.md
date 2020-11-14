@@ -1,7 +1,7 @@
 # Recursivos
 
 Susana Esparza Ramírez
-Correo: susana.esparza12@gmail.com
+ Correo: susana.esparza12@gmail.com
 
 Instrucciones: 
 Para ejecutar el programa se necesita un IDE Java.
